@@ -1,0 +1,15 @@
+*.tmp
+*.~
+*~
+*.~un
+*.swp
+000. Unversioned
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.doc
+~$*.xls
+~$*.ppt
+~$*.xlsm
+~$*.docm
+~$*.pptm
